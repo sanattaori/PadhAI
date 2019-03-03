@@ -14,5 +14,7 @@
 - Vector and Matrices  
   - [Vectors and Matrices ScreenCaps](https://github.com/sanattaori/PadhAI/blob/master/Vectors_and_Matrices.ipynb)
   - [Vectors](https://github.com/sanattaori/PadhAI/blob/master/Vectors.ipynb)
+- Sigmoid
+  - [Sigmoid](https://github.com/sanattaori/PadhAI/blob/master/Sigmoid.ipynb)
 
-> New Content will be added soon...
+> Show your like by giving star to the repo [![GitHub stars](https://img.shields.io/github/stars/Naereen/StrapDown.js.svg?style=social&label=Star)](https://GitHub.com/sanattaori/padhai)
