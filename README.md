@@ -16,5 +16,10 @@
   - [Vectors](https://github.com/sanattaori/PadhAI/blob/master/Vectors.ipynb)
 - Sigmoid
   - [Sigmoid](https://github.com/sanattaori/PadhAI/blob/master/Sigmoid.ipynb)
+  - [Learning Algorithm ](https://github.com/sanattaori/PadhAI/blob/master/Learning_Algorithm.ipynb)
+  - [sigmoid 2d_experiment](https://github.com/sanattaori/PadhAI/blob/master/sigmoid_2d_experiment.ipynb)
+  - [sigmoid 3d_experiment](https://github.com/sanattaori/PadhAI/blob/master/sigmoid_3d.ipynb)
+  - [Sigmoid_Neuron](https://github.com/sanattaori/PadhAI/blob/master/SigmoidNeuron.ipynb)
+  - [Sigmoid_Neuron_Experiment](https://github.com/sanattaori/PadhAI/blob/master/Sigmoid_Neuron_Experiment.ipynb)
 
 > Show your like by giving star to the repo [![GitHub stars](https://img.shields.io/github/stars/Naereen/StrapDown.js.svg?style=social&label=Star)](https://GitHub.com/sanattaori/padhai)
